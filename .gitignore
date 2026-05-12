@@ -1,3 +1,6 @@
 **/_pycache_/
 node_modeules/
 .env
+
+# Ignore all log files
+*.log
